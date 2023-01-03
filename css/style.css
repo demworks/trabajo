@@ -126,7 +126,7 @@
 }
 
 .encabezado-img {
-    background-image: url(../assets/img/teclado.jpg);
+    background-image: url(./assets/img/teclado.jpg);
     height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
